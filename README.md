@@ -1,5 +1,9 @@
 # Terraform Zero to Hero course
 
+
+![image](https://github.com/user-attachments/assets/7430c64d-5e6b-49e2-9ad5-7265cad7584c)
+
+
 ## Day 1: Getting Started with Terraform
 
 #### Introduction to Terraform and IaC
